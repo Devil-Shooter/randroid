@@ -1,5 +1,9 @@
 # randroid
-Before starting in the directory called static edit the file called "App_data.json"
+Read the readme file in the executable folder
+
+
+the readme file:
+Before starting edit the file called "App_data.json" in the directory called static 
 to add an app use the following template:
 APPNAME{path_to_the_executable: "PATH",
         position: NUMBER_FROM_1_TO_11, NUMBER_FROM_1_TO_6
